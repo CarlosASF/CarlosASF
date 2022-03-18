@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente trabalho com front-end.
 - 🌱 Estudando javascript.
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/CarlosASF">
