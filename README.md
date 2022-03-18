@@ -1,7 +1,7 @@
 ### Opa, eu sou o CarlosASF 👋
 
 
-- 🔭 Hoje trabalho com front-end.
+- 🔭 Atualmente trabalho com front-end.
 - 🌱 Estudando javascript.
 - 😄 Pronouns: ele/dele
 
